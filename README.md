@@ -9,11 +9,11 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 2.Cisco packet tracer
 
 # IP ASSIGNMENT
-<img width="1362" height="1088" alt="image" src="https://github.com/user-attachments/assets/6bcfe07e-c9a6-4f6a-9e48-b695c4d529b5" />
+<img width="1600" height="1211" alt="image" src="https://github.com/user-attachments/assets/47e5e42d-1979-47e3-b28c-28495ad05698" />
 
 
 # NETWORK DIAGRAM
-<img width="1600" height="1026" alt="image" src="https://github.com/user-attachments/assets/ce952f80-0408-4f8b-b546-4b0e5380168a" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/4a33fcd4-eebc-40af-95fc-07e3d6350a51" />
 
 
 # PROCEDURE
@@ -28,9 +28,9 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
-<img width="1288" height="805" alt="image" src="https://github.com/user-attachments/assets/b00326fe-dc86-438a-8c37-69873e4e4f61" />
-<img width="1600" height="1062" alt="image" src="https://github.com/user-attachments/assets/5319be39-93e5-490b-abe0-29ecca9a2bef" />
-<img width="1600" height="1041" alt="image" src="https://github.com/user-attachments/assets/282a228b-b91f-4e17-8760-12e1345c5fee" />
+<img width="1600" height="1297" alt="image" src="https://github.com/user-attachments/assets/3b8d0caf-b0b1-4712-b5a5-a7391a4240f9" />
+<img width="1600" height="1220" alt="image" src="https://github.com/user-attachments/assets/b4dcc79e-6abe-47ef-a5d2-b52e2cd29567" />
+<img width="1568" height="1293" alt="image" src="https://github.com/user-attachments/assets/56e016c7-e096-4797-b62b-88e08594f4a0" />
 
 
 
